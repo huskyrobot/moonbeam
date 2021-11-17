@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["relay_encoder_precompiles"] = [{"text":"impl <a class=\"trait\" href=\"precompile_utils/data/trait.EvmData.html\" title=\"trait precompile_utils::data::EvmData\">EvmData</a> for <a class=\"struct\" href=\"relay_encoder_precompiles/struct.RewardDestinationWrapper.html\" title=\"struct relay_encoder_precompiles::RewardDestinationWrapper\">RewardDestinationWrapper</a>","synthetic":false,"types":["relay_encoder_precompiles::RewardDestinationWrapper"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

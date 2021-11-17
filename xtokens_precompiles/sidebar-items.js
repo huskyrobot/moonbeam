@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Action",""]],"struct":[["XtokensWrapper","A precompile to wrap the functionality from xtokens"]],"type":[["CurrencyIdOf",""],["XBalanceOf",""]]});

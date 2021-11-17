@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Summary",""],["Transaction",""],["TxPool",""],["TxPoolResult",""]],"trait":[["GetT",""],["TxPoolServer",""],["TxPoolT",""]],"type":[["TransactionMap",""]]});
